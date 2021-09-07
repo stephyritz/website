@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Geotribu</title>
+    <description>Site indépendant de veille sur la géomatique libre et open source. Articles, tutoriels et revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données...</description>
+    <link>https://static.geotribu.fr/</link>
+    <atom:link href="https://static.geotribu.fr/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Geotribu</managingEditor>
+    
+    <docs>https://github.com/geotribu/website/</docs>
+    <language>en</language>
+
+    
+    <pubDate>Tue, 07 Sep 2021 06:08:16 -0000</pubDate>
+    <lastBuildDate>Tue, 07 Sep 2021 06:08:16 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v0.17.0</generator>
+
+    
+    
+    <image>
+      <url>https://cdn.geotribu.fr/img/internal/charte/geotribu_logo_64x64.png</url>
+      <title>Geotribu</title>
+      <link>https://static.geotribu.fr/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>Utiliser GDAL pour traiter les fichiers de la Base Adresse Nationale et Locales</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Travailler les données de la Base Adresse Nationale (BAN) avec GDAL/OGR, en tirant parti de l&#39;abstraction sur les systèmes de fichiers virtuels (VSI) et de la lecture (VRT).</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-09-07_traiter_fichiers_adresse_gdal_csv_vrt/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 07 Sep 2021 06:07:39 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-09-07_traiter_fichiers_adresse_gdal_csv_vrt/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-09-07_traiter_fichiers_adresse_gdal_csv_vrt/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/gdal_bal/gdal_bal.png" type="image/png" length="465371" />
+      
+    </item>
+    
+    <item>
+      <title>Automatiser la publication et la mise à jour de données de PostgreSQL vers Data.gouv.fr</title>
+      
+      
+        
+      <author>Florian Boret</author>
+        
+      
+      <description>Automatiser la publication et la mise à jour de données entre PostgreSQL et Data.gouv.fr en utilisant OGR et l&#39;API data.gouv.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-08-31_pg2datagouv/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 31 Aug 2021 19:43:40 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-08-31_pg2datagouv/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-08-31_pg2datagouv/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/pg2datagouv/pg2datagouv_illustration.png" type="image/png" length="103762" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 27 août 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Rythme estival oblige, voici la GeoRDP mensuelle d&#39;août 2021. Idéale pour se remettre à jour juste avant la rentrée.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-08-27/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 28 Aug 2021 11:45:51 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-08-27/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-08-27/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/geosm_italia.png" type="image/png" length="479400" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 25 juillet 2014</title>
+      
+      
+      <description>&lt;h1&gt;Revue de presse du 25 juillet 2014&lt;/h1&gt;
+&lt;p&gt;On termine le mois en juillet tranquilou avec une GeoRDP légère mais pas sans saveur ! Comme souvent, nous parlons de MapBox et d&#39;OSM mais également d&#39;un visualisateur 3D pour PostGIS, de l&#39;art de maitriser la manipulation des rasters et nous terminons par un petit jeu.&lt;/p&gt;
+&lt;p&gt;Bonne lecture !&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Sorties de la semaine&lt;/h2&gt;
+&lt;h3&gt;Tiens, voilà du Leaflet !&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;logo Leaflet&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/leaflet.png&#34; title=&#34;logo Leaflet&#34;&gt;{:...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-07-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 27 Aug 2021 06:27:40 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2014/rdp_2014-07-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-07-18/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 20 Février 2015</title>
+      
+      
+      <description>&lt;h1&gt;Revue de presse du 20 Février 2015&lt;/h1&gt;
+&lt;p&gt;Le serveur GeoTribu fait des siennes en ce moment ! Mais ce n&#39;est pas une raison pour oublier une revue de presse.&lt;/p&gt;
+&lt;p&gt;Cette semaine, la prochaine conférence SAGEO, de biens jolies cartes avec Istvan, une école thématique du CNRS, les itinéraires directement sur le site d&#39;OpenStreetMap, des mises à jour avec GDAL/OGR et GeoServer, les heatmaps qu&#39;il va falloir renommer en isoplèthes, nos voisins de l&#39;autre côté des océans, un quizz sur les aéroports américai...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-02-20/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 27 Aug 2021 06:27:40 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2015/rdp_2015-02-20/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-02-20/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 4 juin 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 4 juin 2021 : Des bougies à souffler, un évènement OpenStreetMap à ne pas rater, de la cartographie, une idée de déco pour le bureau et des mises à jour pour vos outils du quotidien.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-06-04/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Mon, 16 Aug 2021 09:38:40 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-06-04/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-06-04/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/carte_pays_reconfine.png" type="image/png" length="563663" />
+      
+    </item>
+    
+    <item>
+      <title>Contribuer à OpenStreetMap, les deux applications coup de coeur sur Android</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>&lt;h1&gt;Contribuer à OpenStreetMap, les deux applications coup de coeur sur Android&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 20 février 2013&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OpenStreetMap | Android&lt;/p&gt;
+&lt;p&gt;Auparavant, l&#39;essentiel de mes contributions se faisait a l&#39;aide d&#39;un récepteur GPS et d&#39;un bloc note. Mais, l&#39;invasion des smartphones et surtout le développement d&#39;applications dédiées à OpenStreetMap m&#39;ont fait changer mes habitudes. Néanmoins, toutes les applications ne se valent pas, tant en termes de qualité, q...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2013/art_2013-02-20/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Mon, 16 Aug 2021 09:17:02 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2013/art_2013-02-20/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-02-20/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/openstreetmap/images.jpeg" type="image/jpeg" length="9732" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 26 Juin 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Revue de presse géomatique du 26 juin 2020 : QGIS 3.14, Mapillary rachetée par Facebook, webinaires Isogeo, cartes du confinement de Bloomberg</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 10 Aug 2021 15:14:25 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/geosm_osm_france.jpg" type="image/jpeg" length="107741" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 30 juillet 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 30 juillet 2021 : La course de relais de l’actualité estivale est lancée avec la RDP de Juillet.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-07-30/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 03 Aug 2021 19:28:50 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-07-30/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-07-30/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/3d_nautical_chart.jpg" type="image/jpeg" length="219925" />
+      
+    </item>
+    
+    <item>
+      <title>Vectipy, un serveur minimaliste de tuiles vectorielles (MVT)</title>
+      
+      
+        
+      <author>Jean-Baptiste DESBAS</author>
+        
+      
+      <description>Présentation de vectipy, un serveur léger de tuiles vectorielles (MVT)</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Mon, 19 Jul 2021 09:19:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/vectipy/vectipy_logo.png" type="image/png" length="3028" />
+      
+    </item>
+    
+    <item>
+      <title>Mise à jour estivale 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Ce vendredi, pas de revue de presse mais une revue des nouveautés du site récentes : licences, page d&#39;accueil et sponsoring à venir.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 16:02:43 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_homepage_dark_2021-07-16.png" type="image/png" length="241194" />
+      
+    </item>
+    
+    <item>
+      <title>Modélisation d&#39;une base de données avec SQL Power Architect</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>&lt;h1&gt;Modélisation d&#39;une base de données avec SQL Power Architect&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 15 juillet 2010&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Open Source | Database | Modelisation&lt;/p&gt;
+&lt;p&gt;Dans le cadre de mon activité professionnelle, j&#39;avais besoin de modéliser une base de données et d&#39;importer des données d&#39;une base access (&lt;a href=&#34;http://macommune.prim.net/gaspar/&#34;&gt;base gaspar&lt;/a&gt;) vers une base PostgreSQL. Plutôt que de faire tout cela à la main, j&#39;ai cherché à optimiser et surtout automatiser au maximum les ...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2010/art_2010-07-15/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2010/art_2010-07-15/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-07-15/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Créer votre moteur d&#39;itinéraires Open Source avec OSRM</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>Le calcul d&#39;itinéraires est un enjeu courant dans les métiers ed l&#39;information géographique. Découvrez comment créer un moteur de calcul d&#39;itinéraires avec Open Source Routing Machine (OSRM).</description>
+      <link>https://static.geotribu.fr/articles/2012/art_2012-06-21/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2012/art_2012-06-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2012/art_2012-06-21/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Du web, des socquettes et de la carto</title>
+      
+      
+        
+      <author>Fabien Goblet</author>
+        
+      
+      <description>&lt;h1&gt;Du web, des socquettes et de la carto&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 25 février 2013&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Leaflet | PHP | ratchet | WebSocket&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;websocket&#34; src=&#34;https://cdn.geotribu.fr/img/logos-icones/divers/websocket.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Avec un titre pareil je suis pas prêt de me faire référencer... tant pis ce sera pour les initiés :wink:. J&#39;entends souvent parler du temps réel ; la tendance actuelle vers les objects connectés et autres interactions possibles avec des smartp...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2013/art_2013-02-25/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2013/art_2013-02-25/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-02-25/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Compiler OpenLayers 3</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>&lt;h1&gt;Compiler OpenLayers 3&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 21 mai 2013&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OpenLayers&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://openlayers.org/&#34;&gt;OpenLayers&lt;/a&gt; 3 s&#39;annonce comme étant la bibliothèque Javascript Open Source la plus avancée dans le domaine de la cartographie. De nombreuses fonctionnalités seront présentes comme des moteurs de rendu aux capacités améliorées (grace a WebGL), mais aussi l&#39;intégration d&#39;environnement 3D avec Cesium.&lt;/p&gt;
+&lt;p&gt;Pour un avant goût de ses potentialités, le mieux est de cons...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2013/art_2013-05-21/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2013/art_2013-05-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-05-21/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Modèle générique avec Django</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>&lt;h1&gt;Modèle générique avec Django&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 31 juillet 2013&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Django | Python&lt;/p&gt;
+&lt;p&gt;Dans un des projets sur lequel je travaille, j&#39;ai plusieurs modèles dont la structure est similaire mais dont seule la table change. En fait, il s&#39;agit d&#39;une grille géographique couvrant le monde et dont la résolution change en fonction du zoom. Plutôt que de répéter la même structure pour chacune des classes, il est bien plus simple de s&#39;appuyer sur un modèle générique ...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2013/art_2013-07-31/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2013/art_2013-07-31/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-07-31/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Un nouveau membre dans la tribu</title>
+      
+      
+        
+      <author>Etienne DELAY</author>
+        
+      
+      <description>&lt;h1&gt;Un nouveau membre dans la tribu&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 22 septembre 2013&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; GeoTribu&lt;/p&gt;
+&lt;p&gt;Bonjour à tous,&lt;/p&gt;
+&lt;p&gt;Eh bien voilà, j&#39;ai le grand honneur de me présenter en temps que nouveau membre de la tribu GeoTribu! Je m&#39;appelle Etienne DELAY, je suis &lt;a href=&#34;http://recherche.flsh.unilim.fr/geolab/etienne-delay/&#34; title=&#34;cv sur le site de GEOLAB&#34;&gt;doctorant en géographie à GEOLAB&lt;/a&gt; (université de Limoges).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;![Etienne_Delay](https://cdn.geotribu.fr/img/internal/contributeurs/ed...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2013/art_2013-09-22/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2013/art_2013-09-22/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-09-22/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Temps de réponses comparés OSRM vs GraphHopper</title>
+      
+      
+        
+      <author>Rodolphe Quiédeville</author>
+        
+      
+      <description>&lt;h1&gt;Temps de réponses comparés OSRM vs GraphHopper&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 04 décembre 2013&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OSRM | GraphHopper | Routing | OpenStreetMap | benchmark&lt;/p&gt;
+&lt;p&gt;La &lt;a href=&#34;https://karussell.wordpress.com/2013/11/25/releasing-graphhopper-0-2-further-faster-road-routing/&#34;&gt;récente sortie&lt;/a&gt; de la version 0.2 de &lt;a href=&#34;http://graphhopper.com/&#34;&gt;GraphHopper&lt;/a&gt; est une bonne occasion de tester plus en avant cet outil et de vérifier les assertions de l&#39;équipe quant aux temps de réponses annoncé...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2013/art_2013-12-04/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2013/art_2013-12-04/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-12-04/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Une tonne d&#39;Ebooks pour 5$</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>&lt;h1&gt;Une tonne d&#39;Ebooks pour 5$&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 02 janvier 2014&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; livres&lt;/p&gt;
+&lt;p&gt;Chez Géotribu, il n&#39;est pas dans notre habitude de faire de la publicité. Mais il faut avouer que &lt;a href=&#34;https://www.packtpub.com/ebookbonanza&#34;&gt;le deal&lt;/a&gt; proposé par Packt Publishing vaut le coup d&#39;être relayé. Tous les livres de l&#39;éditeur sont proposés au prix unique de 5$ !&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Cette liste de livres inclut également quelques ouvrages portant sur la géomatique :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Postgis Cookbook](...&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://static.geotribu.fr/articles/2014/art_2014-01-02/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2014/art_2014-01-02/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-01-02/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2014, nos prospectives géomatiques</title>
+      
+      
+        
+      <author>Thomas GRATIER</author>
+        
+      
+      <description>&lt;h1&gt;2014, nos prospectives géomatiques&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 13 janvier 2014&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; prospectives&lt;/p&gt;
+&lt;p&gt;Quoi de neuf pour 2014&lt;/p&gt;
+&lt;p&gt;Comme chaque année, nous vous présentons les visions qu&#39;ont les autres sur l&#39;évolution de l&#39;usage de la cartographie.&lt;br&gt;
+Nous vous invitons à lire nos suppositions sur l&#39;avenir avec 7 propositions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;1) Les horizons cartographiques vont encore s&#39;élargir&lt;/h3&gt;
+&lt;p&gt;Beaucoup de métiers sous-utilisent les possibilités offertes par la cartographie. ...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2014/art_2014-01-13/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2014/art_2014-01-13/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-01-13/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Un bon deal chez Packt Publishing</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>&lt;h1&gt;Un bon deal chez Packt Publishing&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 21 mars 2014&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; livres&lt;/p&gt;
+&lt;p&gt;Packt Publishing est l&#39;un des rares éditeurs à avoir de nombreux ouvrages sur les SIG et le WebMapping. Je me fournis réguliérement chez eux du fait de la qualité des bouquins. Néanmoins, cela rerésente tout de même un certain budget. C&#39;est pourquoi, quand un bon deal pointe le bout de son nez je n&#39;hésite pas à le faire partager.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;En fait, pour son 2000e titre à son catal...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2014/art_2014-03-21/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2014/art_2014-03-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-03-21/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Non, MapServer, GeoServer, TileCache &amp; co ne sont pas toujours nécessaires</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>&lt;h1&gt;Non, MapServer, GeoServer, TileCache &amp;amp; co ne sont pas toujours nécessaires&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 24 mars 2014&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; WebMapping&lt;/p&gt;
+&lt;p&gt;Lors d&#39;un récent projet, j&#39;ai été amené à travailler sur une application cartographique dont les fondations avaient déjà été mises en place par le précédent développeur. En background on avait de l&#39;usuel, à savoir &lt;a href=&#34;http://mapserver.org/&#34;&gt;MapServer&lt;/a&gt; et &lt;a href=&#34;http://tilecache.org/&#34;&gt;TileCache&lt;/a&gt;. Ma première impression fût, bon c&#39;est cool on e...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2014/art_2014-03-24/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2014/art_2014-03-24/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-03-24/</guid>
+      
+    </item>
+    
+    <item>
+      <title>De l&#39;acquisition à la visualisation d&#39;images prises à partir d&#39;un drone</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>&lt;h1&gt;De l&#39;acquisition à la visualisation d&#39;images prises à partir d&#39;un drone&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 29 avril 2014&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; drones | images aériennes&lt;/p&gt;
+&lt;p&gt;Il m&#39;arrive régulièrement de tomber sur des innovations qui auraient le potentiel de changer considérablement nos habitudes métiers. L&#39;une des plus récentes, et pour laquelle je me suis pris de passion, est celle des drones. Contrairement à ce qui se fait majoritairement, mon objectif n&#39;est pas d&#39;utiliser ces vecteurs aé...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2014/art_2014-04-29/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2014/art_2014-04-29/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-04-29/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Le plein d&#39;eBooks pour 10$ avec Packt Publishing</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>&lt;h1&gt;Le plein d&#39;eBooks pour 10$ avec Packt Publishing&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 05 mai 2014&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Packt Publishing&lt;/p&gt;
+&lt;p&gt;Ce n&#39;est pas la première fois que nous parlons de Packt Publishing dans nos colonnes. Mais il faut l&#39;avouer que l&#39;éditeur propose régulièrement des offres particulièrement intéressantes. Cette fois-ci, &lt;a href=&#34;http://bit.ly/1q6bpha&#34;&gt;le deal proposé&lt;/a&gt; est de 10$ par eBook. Plutôt intéressant non quand l&#39;on sait qu&#39;en moyenne chacun coûte environ 30$ !&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Cett...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2014/art_2014-05-05/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2014/art_2014-05-05/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-05-05/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Thèse : Formalisation d&#39;un environnement d&#39;aide à l’analyse géocollaborative pour l’étude des comportements à risque - Application à la sécurité et sûreté de la maritimisation de l’énergie</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>&lt;h1&gt;Thèse : Formalisation d&#39;un environnement d&#39;aide à l’analyse géocollaborative pour l’étude des comportements à risque - Application à la sécurité et sûreté de la maritimisation de l’énergie&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 25 mai 2014&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; thèse&lt;/p&gt;
+&lt;p&gt;Le Centre de recherche sur les Risques et les Crises (CRC) de MINES ParisTech propose un sujet de thèse sur la géocollaboration. Plus de détails sont disponibles à la suite de ce billet et surtout n&#39;hésitez pas à postuler !&lt;/p&gt;
+&lt;p&gt;--...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2014/art_2014-05-25/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2014/art_2014-05-25/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-05-25/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Généralisation de niveaux intermédiaires dans une pyramide d’échelles</title>
+      
+      
+        
+      <author>Jérémie Ory</author>
+        
+      
+      <description>&lt;h1&gt;Généralisation de niveaux intermédiaires dans une pyramide d’échelles&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 05 août 2014&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; thèse&lt;/p&gt;
+&lt;p&gt;Le &lt;a href=&#34;http://recherche.ign.fr/labos/cogit/accueilCOGIT.php&#34;&gt;laboratoire COGIT&lt;/a&gt; propose un sujet de thèse sur la généralisation de niveaux intérmédiaires dans une pyramide d’échelles. Cette thèse est proposée par &lt;a href=&#34;http://recherche.ign.fr/labos/cogit/cv.php?prenom=Guillaume&amp;amp;nom=Touya&#34;&gt;Guillaume Touya&lt;/a&gt;. Plus de détails sont disponibles à la suite d...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2014/art_2014-08-05/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2014/art_2014-08-05/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-08-05/</guid>
+      
+    </item>
+    
+    <item>
+      <title>OpenStreetMap ce n&#39;est pas (qu&#39;) une carte </title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>&lt;h1&gt;OpenStreetMap ce n&#39;est pas (qu&#39;) une carte&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 11 janvier 2015&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OpenStreetMap&lt;/p&gt;
+&lt;p&gt;Lorsque je discute d&#39;OpenStreetMap, je me rends souvent compte qu&#39;il y a une méconnaissance de l&#39;étendue réelle de ce projet. En effet, pour beaucoup de personnes, OpenStreetMap (OSM) se résume à une carte. Il est vrai que c&#39;est souvent la première illustration concrète de ce projet !&lt;/p&gt;
+&lt;p&gt;Mais en réalité OSM est un projet collaboratif dont le coeur est la base d...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/articles/2015/art_2015-01-11/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2015/art_2015-01-11/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2015/art_2015-01-11/</guid>
+      
+    </item>
+    
+    <item>
+      <title>&#39;Ce que l&amp;apos;orientation des rues de Paris (...)&#39; : les dessous d&#39;une carte</title>
+      
+      
+        
+      <author>Mathieu Rajerison</author>
+        
+      
+      <description>Making-of la carte publiée dans Slate : &#39;Ce que l&#39;orientation des rues de Paris nous dit de son histoire&#39;</description>
+      <link>https://static.geotribu.fr/articles/2015/art_2015-02-16/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2015/art_2015-02-16/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2015/art_2015-02-16/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Du HTML en Markdown (et vice-versa)</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Convertir les contenus récupérés de l&#39;ancien site de Geotribu en Markdown (via markdownify) : lingua franca du contenu web 2020.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" length="48052" />
+      
+    </item>
+    
+    <item>
+      <title>Utiliser GDAL sous Windows avec WSL (Windows Subsystem for Linux)</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>WSL ? Le Windows Subsystem for Linux permet depuis quelques années déjà de faire tourner un terminal bash sous Windows et ainsi bénéficier de l&#39;usage des programmes populaires de l&#39;écosystème Linux. Dans ce tutoriel, nous verrons comment installer et configurer WSL sur Windows 10, puis nous verrons les possibilités que cela ouvre en installant et utilisant GDAL dans le sous-système Linux.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/gdal_wsl/ubuntu_wsl_landing_page.png" type="image/png" length="81924" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 16 octobre 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 16 octobre 2020 : MadMaps, un serious game pour l&#39;initiation à la cartographie</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/charles_booth_legend.png" type="image/png" length="949223" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 30 octobre 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 30 octobre 2020 : La recette de Geotribu pour un début de confinement réussi : un peu de QGIS 3.16, une pointe de GDAL 3.1.4, une cuillère à soupe de GeoNetwork 4.0.0, une louche d&#39;OpenData et une pincée d&#39;OpenStreetMap. Bref, on melange tout ça et on arrivera assurément à des cartes d&#39;exception.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/ogc_SymCoreApproved_1024x512.jpg" type="image/jpeg" length="156634" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 13 novembre 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 13 novembre 2020, retrouvez le condensé de la géomatique : #30DayMapChallenge, InfluxDB, mobilité, livres, atlas, rdv techniques et thématiques, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/mayors_dialogue_visual_motif.png" type="image/png" length="467357" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 27 novembre 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 27 novembre 2020, la revue de presse géomatique de Geotribu : PostGIS 3.1, journées QGIS francophones, les supports de différents événements, un t-shirt GDAL, l&#39;accès aux images satellites de Theia, et d&#39;autres choses encore ! </description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/tree_canopy.png" type="image/png" length="215190" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 11 décembre 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 11 décembre 2020, la revue de presse géomatique de Geotribu : De nombreuses mises à jour au programme ainsi qu&#39;une bonne nouvelle du côté de l&#39;ouverture des données.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 09:50:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/globe_sauter.jpeg" type="image/jpeg" length="318364" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 20 septembre 2013</title>
+      
+      
+      <description>&lt;h1&gt;Revue de presse du 20 septembre 2013&lt;/h1&gt;
+&lt;p&gt;Vous l&#39;avez peut-être noté, mais notre billet est paru avec un peu de retard. La raison, au choix selon les rédacteurs : &lt;a href=&#34;http://www.blogdelasante.com/wp-content/uploads/2009/07/grippe-A-humour.jpg&#34;&gt;grippe&lt;/a&gt;, &lt;a href=&#34;http://2013.foss4g.org/&#34;&gt;FOSS4G 2013&lt;/a&gt; ou encore &lt;a href=&#34;http://img.xooimage.com/files64/9/5/9/virer-les-depressifs-2471cf5.jpg&#34;&gt;surmenage professionnel&lt;/a&gt;. Bon, en plus on attendait également patiemment la sortie de QGIS 2.0 ! Nous n&#39;allions tout de même pa...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-09-20/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 13 Jul 2021 14:32:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2013/rdp_2013-09-20/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-09-20/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 14 novembre 2014</title>
+      
+      
+      <description>&lt;h1&gt;Revue de presse du 14 novembre 2014&lt;/h1&gt;
+&lt;p&gt;Ces derniers temps, nous sommes de mauvais élèves : nous prenons toujours un peu plus de temps que prévu à publier. D&#39;habitude, le Vendredi, vous êtes comme des enfants gâtés: livraison express de la revue de presse.&lt;/p&gt;
+&lt;p&gt;Plus sérieusement, découvrez cette semaine un cartoDB sans limite. Voyez comment openLayers se met à la 3D et comment la contribution OSM passe à l&#39;ère 2.0 . Suivez la course de Rosetta et découvrez comment les images satellites permettent ...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-11-17/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 13 Jul 2021 14:32:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2014/rdp_2014-11-17/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-11-17/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 17 avril</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Revue de presse du 17 avril</description>
+      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-20/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 13 Jul 2021 14:32:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2015/rdp_2015-04-20/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-04-20/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 17 juillet</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Revue de presse du 17 juillet</description>
+      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-07-17/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 13 Jul 2021 14:32:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2015/rdp_2015-07-17/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-07-17/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 18 septembre</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Revue de presse du 18 septembre</description>
+      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-09-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 13 Jul 2021 14:32:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2015/rdp_2015-09-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-09-18/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

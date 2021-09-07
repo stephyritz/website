@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Geotribu</title>
+    <description>Site indépendant de veille sur la géomatique libre et open source. Articles, tutoriels et revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données...</description>
+    <link>https://static.geotribu.fr/</link>
+    <atom:link href="https://static.geotribu.fr/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Geotribu</managingEditor>
+    
+    <docs>https://github.com/geotribu/website/</docs>
+    <language>en</language>
+
+    
+    <pubDate>Tue, 07 Sep 2021 06:08:16 -0000</pubDate>
+    <lastBuildDate>Tue, 07 Sep 2021 06:08:16 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v0.17.0</generator>
+
+    
+    
+    <image>
+      <url>https://cdn.geotribu.fr/img/internal/charte/geotribu_logo_64x64.png</url>
+      <title>Geotribu</title>
+      <link>https://static.geotribu.fr/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>Utiliser GDAL pour traiter les fichiers de la Base Adresse Nationale et Locales</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Travailler les données de la Base Adresse Nationale (BAN) avec GDAL/OGR, en tirant parti de l&#39;abstraction sur les systèmes de fichiers virtuels (VSI) et de la lecture (VRT).</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-09-07_traiter_fichiers_adresse_gdal_csv_vrt/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 07 Sep 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-09-07_traiter_fichiers_adresse_gdal_csv_vrt/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-09-07_traiter_fichiers_adresse_gdal_csv_vrt/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/gdal_bal/gdal_bal.png" type="image/png" length="465371" />
+      
+    </item>
+    
+    <item>
+      <title>Automatiser la publication et la mise à jour de données de PostgreSQL vers Data.gouv.fr</title>
+      
+      
+        
+      <author>Florian Boret</author>
+        
+      
+      <description>Automatiser la publication et la mise à jour de données entre PostgreSQL et Data.gouv.fr en utilisant OGR et l&#39;API data.gouv.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-08-31_pg2datagouv/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 31 Aug 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-08-31_pg2datagouv/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-08-31_pg2datagouv/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/pg2datagouv/pg2datagouv_illustration.png" type="image/png" length="103762" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 27 août 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Rythme estival oblige, voici la GeoRDP mensuelle d&#39;août 2021. Idéale pour se remettre à jour juste avant la rentrée.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-08-27/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 27 Aug 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-08-27/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-08-27/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/geosm_italia.png" type="image/png" length="479400" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 30 juillet 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 30 juillet 2021 : La course de relais de l’actualité estivale est lancée avec la RDP de Juillet.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-07-30/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 30 Jul 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-07-30/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-07-30/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/3d_nautical_chart.jpg" type="image/jpeg" length="219925" />
+      
+    </item>
+    
+    <item>
+      <title>Mise à jour estivale 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Ce vendredi, pas de revue de presse mais une revue des nouveautés du site récentes : licences, page d&#39;accueil et sponsoring à venir.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 16 Jul 2021 15:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_homepage_dark_2021-07-16.png" type="image/png" length="241194" />
+      
+    </item>
+    
+    <item>
+      <title>Préconfigurer QGIS en entreprise avec OSGEO4W</title>
+      
+      
+        
+      <author>Régis HAUBOURG</author>
+        
+      
+      <description>vous voulez contrôler l&#39;interface et les paramètres de QGIS dans votre organisation. Ne pas infliger à vos utilisateurs de trifouiller les réglages du proxy, ou connaître l&#39;adresse IP des serveurs PostGIS ? Suivez le guide pour industrialiser votre installation personnalisée de QGIS.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-07-06_qgis_personnaliser_package_osgeo4w/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 06 Jul 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-07-06_qgis_personnaliser_package_osgeo4w/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-07-06_qgis_personnaliser_package_osgeo4w/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/qgis_customize_osgeo4w_rha/qgis_osgeo4w_voiture_rallye.png" type="image/png" length="657098" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 2 juillet 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 2 juillet 2021. Au menu de la revue de presse de la géomatique ouverte et collaborative : LiDAR IGN, géocommuns, atlas QGIS, occupation du sol Esri, Lyon en 1700, un moteur de recherche en langage naturel sur OSM, du footbal dans QGIS... De quoi attaquer sereinement l&#39;été !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-07-02/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 02 Jul 2021 15:50:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-07-02/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-07-02/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/glastonbury.jpg" type="image/jpeg" length="129888" />
+      
+    </item>
+    
+    <item>
+      <title>De petites applications webmapping avec R</title>
+      
+      
+        
+      <author>Romain LACROIX</author>
+        
+      
+      <description>Comment réaliser des cartes interactives personnalisées simplement à l&#39;aide de R et quelques packages</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-06-25_webmapping_avec_r/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 25 Jun 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-06-25_webmapping_avec_r/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-06-25_webmapping_avec_r/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/webmapping_avec_r/exempletitre.png" type="image/png" length="919422" />
+      
+    </item>
+    
+    <item>
+      <title>Open Data Kit pour la collecte de données géographiques dans PostGIS (2/3)</title>
+      
+      
+        
+      <author>Mathieu BOSSAERT</author>
+        
+      
+      <description>Second article de présentation de la suite Open Data Kit (ODK) et son intégration au SI du CEN d&#39;Occitanie et dans les processus métiers.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-06-22_odk_postgis_2/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 22 Jun 2021 22:50:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-06-22_odk_postgis_2/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-06-22_odk_postgis_2/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/odk_postgis_collecte/odk_and_postgresql.png" type="image/png" length="25824" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 18 juin 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 18 juin 2021 : Une petite revue de presse cette semaine mais c&#39;est au profit de la publication d&#39;articles ou d&#39;améliorations du site. Les quelques news témoignent néanmoins du dynamisme de l&#39;open source dans notre écosystème, avec l&#39;ouverture du code de Mergin et QFieldCloud.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-06-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 18 Jun 2021 18:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-06-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-06-18/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/qgis_carte_semirara_2021.jpg" type="image/jpeg" length="135040" />
+      
+    </item>
+    
+    <item>
+      <title>Personnaliser le splash screen de QGIS</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Le lancement de QGIS vous semble long ? Vous êtes sur la LTR et las de voir la même image pendant 2 ans ? Voici comment personnaliser l&#39;image au lancement de QGIS.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-06-11_qgis_personnaliser_splash_screen/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 11 Jun 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-06-11_qgis_personnaliser_splash_screen/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-06-11_qgis_personnaliser_splash_screen/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_splash_screen/qgis_qtribu_splash_screen_custom.png" type="image/png" length="390751" />
+      
+    </item>
+    
+    <item>
+      <title>Open Data Kit pour la collecte de données géographiques dans PostGIS (1/3)</title>
+      
+      
+        
+      <author>Mathieu BOSSAERT</author>
+        
+      
+      <description>Premier article de présentation de la suite Open Data Kit (ODK) et son intégration au SI du CEN d&#39;Occitanie et dans les processus métiers.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-06-08_odk_postgis_1/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 08 Jun 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-06-08_odk_postgis_1/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-06-08_odk_postgis_1/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/odk_postgis_collecte/open_data_kit_postgresql.png" type="image/png" length="158394" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 4 juin 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 4 juin 2021 : Des bougies à souffler, un évènement OpenStreetMap à ne pas rater, de la cartographie, une idée de déco pour le bureau et des mises à jour pour vos outils du quotidien.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-06-04/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 04 Jun 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-06-04/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-06-04/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/carte_pays_reconfine.png" type="image/png" length="563663" />
+      
+    </item>
+    
+    <item>
+      <title>Un rendu carte topo QGIS basé sur la BD TOPO®</title>
+      
+      
+        
+      <author>Florian Boret</author>
+        
+      
+      <description>Un rendu carte topographique avec QGIS et la BD TOPO®</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-28_carte_topo_qgis/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 28 May 2021 15:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-28_carte_topo_qgis/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-28_carte_topo_qgis/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/qgis_carte_topo_bdtopo/export_carte_topo_saussines.png" type="image/png" length="1499719" />
+      
+    </item>
+    
+    <item>
+      <title>Aperçu de la bibliothèque PowerShell SI3P0</title>
+      
+      
+        
+      <author>Michaël GALIEN</author>
+        
+      
+      <description>Petit aperçu de la bibliothèque PowerShell SI3P0 développée par le département du Gard pour la gestion de son SIg routes et bâtiments.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-25_biblio_powershell_si3p0/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 25 May 2021 16:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-25_biblio_powershell_si3p0/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-25_biblio_powershell_si3p0/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/api_powershell_si3p0/apercu_SI3P0-logo.png" type="image/png" length="127593" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 21 mai 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 21 mai 2021 : plugin cadastre QGIS, du Python coté CloudCompare et GeoPandas, chronique radio sur les abstractions cartographiques, des débats sur de potentielles nouvelles licences open data, les journées de la recherche IGN, l&#39;AG d’OpenStreetMap France, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-05-21/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 21 May 2021 17:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-05-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-05-21/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/carte_routiere.png" type="image/png" length="590873" />
+      
+    </item>
+    
+    <item>
+      <title>Les commentaires sur Geotribu : de Disqus à Isso</title>
+      
+      
+        
+      <author>Julien Moura</author>
+        
+      
+      <description>Rien à voir avec la Géo, mais tout à voir avec la Tribu : nous avons migré notre système de commentaires de Disqus vers Isso. Partage d&#39;expérience et contribution open source.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 14 May 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/disqus_to_isso/geotribu_comments_isso_backend.png" type="image/png" length="163845" />
+      
+    </item>
+    
+    <item>
+      <title>Géo-communs : rendez-vous avec Sébastien Soriano, lundi 10 mai</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>L&#39;IGN lance une consultation publique inédite pour co-construire son avenir autour du concept fort des géo-communs. Rendez-vous lundi 10 mai sur Geotribu pour la GeoInterview (#GeoITW) de Sébastien Soriano.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 09 May 2021 20:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/interview/sebastien_soriano/geocommuns_geoitw.png" type="image/png" length="398779" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 07 mai 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 7 mai 2021 : point sur les dynamiques autour de l&#39;Adresse, de la nouveauté comme toujours autour d&#39;OpenStreetMap, un set d&#39;icônes libres et gratuites pour la cartographie, un traceur GPS DIY pour son vélo et le retour des événements en présentiel au premier rang desquels les GéoDataDays 2021 ! Voici quelques uns des sujets abordés dans cette revue de presse de la géomatique.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 07 May 2021 16:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/adressage.jpg" type="image/jpeg" length="88905" />
+      
+    </item>
+    
+    <item>
+      <title>Vectipy, un serveur minimaliste de tuiles vectorielles (MVT)</title>
+      
+      
+        
+      <author>Jean-Baptiste DESBAS</author>
+        
+      
+      <description>Présentation de vectipy, un serveur léger de tuiles vectorielles (MVT)</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Mon, 26 Apr 2021 15:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/vectipy/vectipy_logo.png" type="image/png" length="3028" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 23 avril 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 23 avril 2021 : cette revue de presse devrait vous emmener dans les hautes sphères de la géomatique open source. Décollage des news imminent !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 23 Apr 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/intro_osm_st-petersbourg-russie.jpg" type="image/jpeg" length="152520" />
+      
+    </item>
+    
+    <item>
+      <title>Faire de la cartographie thématique sur le Web avec MapLibreGL</title>
+      
+      
+        
+      <author>Boris MERICSKAY</author>
+        
+      
+      <description>Fork open source de MapboxGL, MapLibreGL représente l’une des solutions actuelles de cartographie en ligne les plus intéressantes. Afin de documenter et de partager une série d’expérimentations autour de la cartographie thématique sur le Web, la mise en place d’un site Web apparait comme une bonne solution pour donner à voir les possibilités de cartographie thématiques permises par MapLibreGL.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 20 Apr 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/maplibre_site_ressource/accueil_site.png" type="image/png" length="529637" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 9 avril 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 9 avril 2021 : Cette semaine, retour vers le futur, on a replongé 4000 ans en arrière pour entrevoir ce qui pourrait bien être la plus vieille carte d&#39;Europe. Plusieurs articles ont été pbuliés sur GeoTribu et vous trouverez également les parcelles publiques en open data, des ressources ouvertes sur PostgreSQL et QGIS notamment et plein d&#39;autres choses. Bonne lecture !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 09 Apr 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/static_web/geotribu_theme_i386_poisson_avril_2021.png" type="image/png" length="183623" />
+      
+    </item>
+    
+    <item>
+      <title>Représentation d&#39;un réseau de bus</title>
+      
+      
+        
+      <author>Florian Boret</author>
+        
+      
+      <description>Représenter un réseau de bus et gérer la superposition des lignes</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-07_carte_reseau_bus/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Wed, 07 Apr 2021 14:14:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-04-07_carte_reseau_bus/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-07_carte_reseau_bus/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/reseau_bus_qgis/reseau_bus_osm.png" type="image/png" length="821196" />
+      
+    </item>
+    
+    <item>
+      <title>QTribu, le plugin QGIS inutile donc forcément indispensable</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Présentation du plugin de Geotribu pour QGIS : QTribu. Inutile donc forcément indispensable.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Thu, 01 Apr 2021 13:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/projets-geotribu/plugin_qtribu/qtribu_article_displayed.png" type="image/png" length="289168" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 26 mars 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 26 mars 2021 : On vous rassure cette nouvelle revue de presse n&#39;a pas été impactée par le blocage du canal de Suez, les actualités ont continué d&#39;affluer</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Mar 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/cnes_canal_suez.png" type="image/png" length="829341" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 12 mars 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 12 mars 2021 : la revue de presse de la géomatique libre et open source.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 12 Mar 2021 17:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/cran_motif_packages.png" type="image/png" length="146596" />
+      
+    </item>
+    
+    <item>
+      <title>Afficher facilement l&#39;aide de son plugin QGIS</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Petite astuce dans le développement de plugins QGIS : rediriger facilement l&#39;utilisateur final vers la documentation en ligne.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-09_pyqgis_astuce_aide_plugin/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 09 Mar 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-03-09_pyqgis_astuce_aide_plugin/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-09_pyqgis_astuce_aide_plugin/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_show_help/documentation_le-chat.jpg" type="image/jpeg" length="31898" />
+      
+    </item>
+    
+    <item>
+      <title>Présentation de Geotribu sur les Reclus aux Confins</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Les Reclus aux Confins : Découvrir ou redécouvrir la présentation de GeoTribu - Contributions ouvertes à tous</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 05 Mar 2021 14:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/presentation_reclus_confins/geotribu_slide_contributions_ouvertes.png" type="image/png" length="341100" />
+      
+    </item>
+    
+    <item>
+      <title>Développement QGIS : utiliser les documentations hors-ligne avec Zeal</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Blog-note de développement sur QGIS : présentation de Zeal qui permet de disposer d&#39;un naviguer hors-ligne dans les documentations techniques de QGIS et PyQGIS.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 02 Mar 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_doc_dash_zeal/zeal_search_filtered_pyqgis_qgsprovider.png" type="image/png" length="392736" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 26 février 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 26 février 2021 : cette édition de la revue de presse de la géomatique open-source a été co-rédigée à 16 mains. Cette dimension collaborative se retrouve dans la diversité des sujets évoqués : artificialisation des sols, MOOC Adresse, Géovélo, nuages de poussière et les traditionnelles évolutions d&#39;outils dont QGIS 3.16 LTR et QGIS 3.18 et bien d&#39;autres choses encore.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Feb 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/nasa_perseverance_mars_map.jpg" type="image/jpeg" length="231265" />
+      
+    </item>
+    
+    <item>
+      <title>Faire une carte en ligne (tuiles vectorielles + WebGL) 100% libre</title>
+      
+      
+        
+      <author>Boris MERICSKAY</author>
+        
+      
+      <description>En réaction au changement de licence de MapBox, de nombreuses initiatives ont émergé, dont une très intéressante : MapLibre. Voici un tutoriel complet pour l&#39;utiliser pour créer une carte web interactive 100% libre, en continuant à utiliser les fonctionnalités de MapboxGL sans dépendance aux jetons d&#39;accès.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 23 Feb 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/carte-ligne-libre/finalisation.JPG" type="image/jpeg" length="166086" />
+      
+    </item>
+    
+    <item>
+      <title>ign2map : automatisation et déploiement</title>
+      
+      
+        
+      <author>Julien Moura</author>
+        
+      <author>Florian Boret</author>
+        
+      
+      <description>Suite du projet ign2map : automatisation de l&#39;exécution des scripts et du déploiement de la carte interactive des liens de téléchargement des données ouvertes de l&#39;IGN, en tirant profit de GitHub Actions et Pages.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 19 Feb 2021 14:14:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/ign_opendata_map/github_action_workflow_result.png" type="image/png" length="78409" />
+      
+    </item>
+    
+    <item>
+      <title>ign2map : Du site à la carte en 7 étapes</title>
+      
+      
+        
+      <author>Florian Boret</author>
+        
+      <author>Julien Moura</author>
+        
+      
+      <description>ign2map : le petit projet de Geotribu pour rendre l’expérience de téléchargement des données ouvertes de l&#39;IGN plus interactive.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Mon, 15 Feb 2021 11:11:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/ign_opendata_map/ign_opendata_map_html_rendu.png" type="image/png" length="953084" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 12 février 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP, la revue de presse géomatique : Input l&#39;application mobile liée avec QGIS, GeoContrib, le jeu des brasseries, notre participation à la prochaine édition des Reclus aux Confins, des outils pour choisir son nuancier de couleurs, des représentations liées aux incendies et d&#39;autres choses encore.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 12 Feb 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/library_map.png" type="image/png" length="271624" />
+      
+    </item>
+    
+    <item>
+      <title>Impact de Twitter sur la fréquentation du site GeoTribu</title>
+      
+      
+        
+      <author>Aurélien CHAUMET</author>
+        
+      
+      <description>Récupérer des données sociales de Twitter, les préparer et les représenter est assez simple, grâce à trois bibliothèques Python : Twint, Pandas et Plolty. L&#39;exemple développé ici s&#39;appuie sur les statistiques autour des GeoRDP et articles parus dans GeoTribu en 2020</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 09 Feb 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/stats_twitter/geotribu_stats_twitter.png" type="image/png" length="190489" />
+      
+    </item>
+    
+    <item>
+      <title>PyQGIS : lister et prévisualiser les images intégrées</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Suite au dernier article, voici comment lister et prévisualiser les images intégrées à QGIS via script Python pour générer une jolie page markdown.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 02 Feb 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_embedded_images/qgis_icons_preview_cheatsheet.png" type="image/png" length="171657" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 29 janvier 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 29 janvier 2021 : voyage dans le temps avec PhilCarto 2021 puis retour dans le présent avec PyGEOS, Mapillary, AI4Geo, WillyMaps, du mesh et d&#39;autres choses encore !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 29 Jan 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/shadowarm.jpeg" type="image/jpeg" length="158332" />
+      
+    </item>
+    
+    <item>
+      <title>Unfolded Studio, une nouvelle plateforme de visualisation de géodonnées</title>
+      
+      
+        
+      <author>Aurélien Chaumet</author>
+        
+      
+      <description>Prise en main d&#39;Unfolded Studio, une plateforme clé en mains de dataviz, via la représentation de données AirBNB de Bordeaux.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 26 Jan 2021 11:11:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/unfolded/unfolded_capture.png" type="image/png" length="371733" />
+      
+    </item>
+    
+    <item>
+      <title>CSV - Import/export d&#39;un style catégorisé QGIS</title>
+      
+      
+        
+      <author>Florian Boret</author>
+        
+      
+      <description>CSV - Import/export d&#39;un style catégorisé QGIS</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-22_csv_import_export_style_QGIS/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 22 Jan 2021 11:11:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-01-22_csv_import_export_style_QGIS/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-22_csv_import_export_style_QGIS/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/QGIS_style_CSV.gif" type="image/gif" length="143634" />
+      
+    </item>
+    
+  </channel>
+</rss>
